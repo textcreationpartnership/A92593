@@ -1,0 +1,204 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Papers lately delivered in to the Honorable Houses of Parliament by the Commissioners of the Kingdom of Scotland, concerning the proceedings of the Scotish army and their intentions. Published according to order.</title>
+            <author>Scotland. Parliament.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1646</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A92593</idno>
+            <idno type="STC">Wing S1301</idno>
+            <idno type="STC">Thomason E340_8</idno>
+            <idno type="STC">ESTC R200873</idno>
+            <idno type="EEBO-CITATION">99861498</idno>
+            <idno type="PROQUEST">99861498</idno>
+            <idno type="VID">113635</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A92593)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113635)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 55:E340[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Papers lately delivered in to the Honorable Houses of Parliament by the Commissioners of the Kingdom of Scotland, concerning the proceedings of the Scotish army and their intentions. Published according to order.</title>
+                  <author>Scotland. Parliament.</author>
+               </titleStmt>
+               <extent>16 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Laurence Chapman.,</publisher>
+                  <pubPlace>London: :</pubPlace>
+                  <date>June 9. 1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The papers are dated 25 May - 3 June 1646.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Scotland. --  Army.</term>
+               <term>Scotland. --  Parliament.</term>
+               <term>Scotland --  Politics and government --  1625-1649.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Greg Schutz</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113635:1"/>
+            <pb facs="tcp:113635:1" rendition="simple:additions"/>
+            <p>PAPERS LATELY Delivered in to the Honorable Houſes OF PARLIAMENT BY THE COMMISSIONERS of the Kingdom of SCOTLAND, Concerning The Proceedings of the Scotiſh Army, And their Intentions.</p>
+            <p>
+               <hi>Publiſhed according to Order.</hi>
+            </p>
+            <p>LONDON: Printed for <hi>Laurence Chapman. June 9.</hi> 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113635:2"/>
+            <pb n="3" facs="tcp:113635:2"/>
+            <div type="letter">
+               <opener>
+                  <salute>Right Honorable,</salute>
+               </opener>
+               <p>
+                  <seg rend="decorInit">V</seg>VEE are deſired by the Committee of Eſtates of the Kingdom of <hi>Scotland</hi> reſiding with the Scotiſh Army, to communicate to the Honorable Hou<g ref="char:EOLhyphen"/>ſes the Letters and Papers herewith preſented; wherein it will appear, how careful they have been in exhorting His Maje<g ref="char:EOLhyphen"/>ſty to give ſatisfaction to the joynt deſires of both Kingdoms, without medling in any Propoſitions of Peace; They have alſo renewed their deſires for advice from hence, and do earneſtly entreat, That Commiſſioners may be ſent from both Houſes to joyn with them, and to be witneſſes of all their actions, wherein they endeavor nothing more, then that they may be ſuch as may give equal ſatisfaction to both the Kingdoms.</p>
+               <p>We are further deſired to acquaint their Lord<g ref="char:EOLhyphen"/>ſhips with the particulars of a Letter written by Co<g ref="char:EOLhyphen"/>lonel <hi>Poyntz</hi> to Lieut. Gen: <hi>David Leſly,</hi> wherein he doth require, That if he had any forces about <hi>Rippon,</hi> he retire them to ſome other place; And if he had appointed any more to come thither, that he recall his Orders; all which he adviſed him ſpeedily to perform, as he would evidence to the world, that the intention of the coming of the Scotiſh Army into this Kingdom, was to purſue the common Enemy, and not to be troubleſome or encroach upon their
+<pb n="4" facs="tcp:113635:3"/>Friends. To which Lieut. General <hi>Leſly</hi> returned a civil Anſwer, ſhewing him, That his commands ſhould be obeyed; and accordingly did forthwith withdraw his Forces from thoſe parts, being deſi<g ref="char:EOLhyphen"/>rous, according to the directions given unto him, to avoid all occaſions of difference and conteſt: Upon conſideration whereof, It is their earneſt deſire, That as directions are given by them to all the Offi<g ref="char:EOLhyphen"/>cers of the Scotiſh Army, ſo the Honorable Houſes would be pleaſed to give Order to the Commanders of their Forces in thoſe parts to forbear all pro<g ref="char:EOLhyphen"/>voking expreſſions, ſpeeches or actions, which may give juſt cauſe of offence. And for preventing all diſorders and inconveniences, they do earneſtly en<g ref="char:EOLhyphen"/>treat, That Directions may be ſpeedily ſent to the Committee at <hi>York</hi> to appoint them Quarters, that a conſiderable Supply of Money may be ſent unto them, now, after ſo much want, and ſo long ſuffer<g ref="char:EOLhyphen"/>ing; which deſires being ſo reaſonable, and ſo often renewed, we are perſwaded the Honorable Houſes will take them into their ſerious conſideration, and return a ſpeedy and ſatisfactory Anſwer. We re<g ref="char:EOLhyphen"/>main</p>
+               <closer>
+                  <signed>Your Lordſhips affectionate Friends and humble Servants, <hi>Lauderdail, A: Johnſton, Cha: Erskin, Hugh Kenedy, Robert Barcley.</hi>
+                  </signed>
+                  <date>25 <hi>May.</hi> 1646.</date>
+               </closer>
+               <postscript>
+                  <p>
+                     <hi>For the Right Honorable, The Speaker of the Houſe of Peers</hi> pro tempore, <hi>to be communicated to both Houſes Par<g ref="char:EOLhyphen"/>liament.</hi>
+                  </p>
+               </postscript>
+            </div>
+            <pb n="5" facs="tcp:113635:3"/>
+            <div type="account">
+               <p>THe Committee of Eſtates with the Scots Army, having received a Vote of the Honorable Houſe of Commons<g ref="char:punc">▪</g> incloſed in a Letter from the Com<g ref="char:EOLhyphen"/>miſſioners of both Houſes, demanding the perſons of Mr. <hi>John Aſhburnham,</hi> and all others that came with the King into the Scots Army before <hi>Newark,</hi> to be delivered up; did ſeriouſly take into delibera<g ref="char:EOLhyphen"/>tion how they might return a ſatisfactory Anſwer to the Deſire of the Houſe of Commons, wherein they found themſelves preſſed with no ſmall Diffi<g ref="char:EOLhyphen"/>culties ariſing from the conſideration of the Vote, which did require Mr. <hi>John Aſhburnham</hi> and others to be delivered up as Delinquents, upon this Narra<g ref="char:EOLhyphen"/>tive and Reaſon, That they came into the Scotiſh Army before <hi>Newark</hi> with His Majeſty. There being no other cauſe of Delinquency made known unto the Committee of Eſtates, and no more being ex<g ref="char:EOLhyphen"/>preſſed concerning Mr. <hi>John Aſhburnham</hi> then other perſons who were Guides to His Majeſty in his way thither: It did appear unto them, that they were no more obliged to deliver up Mr. <hi>John Aſhburnham</hi> His Majeſties ordinary Servant, and others, onely for their attending the King to the Scotiſh Army, then the Parliament of <hi>England</hi> ſhould have been obliged in the like caſe to deliver up any Subject of <hi>Scotland</hi> for attending His Majeſty if He had gone into Sir <hi>Thomas Fairfax</hi> his Army, or come to <hi>Lon<g ref="char:EOLhyphen"/>don.</hi> And it did very much weigh with their Lord<g ref="char:EOLhyphen"/>ſhops, That the delivering up of theſe perſons, meer<g ref="char:EOLhyphen"/>ly for their coming with His Majeſty into the Sco<g ref="char:EOLhyphen"/>tiſh Army would import, That they did acknow<g ref="char:EOLhyphen"/>ledge it to be unlawful for themſelves to receive
+<pb n="6" facs="tcp:113635:4"/>His Majeſty, coming unexpectedly without any in<g ref="char:EOLhyphen"/>vitation into their Army, ſith he could not come without one Servant or other to attend Him. But if Mr. <hi>John Aſhburnham</hi> or any other that came with His Majeſty, had been Declared by the Parliament to be Incendiaries, Malignants or evil Inſtruments, by hindring the Reformation of Religion, dividing the King from His people, or one of the Kingdoms from another, or making any Factions or parties among the people, contrary to the Solemn League and Covenant, then it was their reſolution, and they were ready therein to give ſatisfaction to the Hono<g ref="char:EOLhyphen"/>rable Houſes. Upon theſe and other grounds they did deſire to confer with the Commiſſioners of both Houſes, to the end they might either give or receive ſatisfaction, and accordingly wrote unto them for this purpoſe, leaving unto them to appoint the place of meeting: It was alſo conſidered what ſhould be done in the interim, till upon conference and mutual conſultation with the Commiſſioners of Parliament the matter ſhould be determined: And though for the coming of theſe perſons with the King to the Scots Army (no other cauſe of offence being known, or crime objected againſt them) the Committee of Eſtates could not in Honor and Juſtice, nor with<g ref="char:EOLhyphen"/>out reflection upon themſelves for receiving his Ma<g ref="char:EOLhyphen"/>jeſty, put a Reſtraint upon them; yet leſt the buſines ſhould be divulged, &amp; upon apprehenſion of the iſſue thereof any of them ſhould make an eſcape, the Co<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>mittee thought fit, &amp; did accordingly enjoyn ſecre<g ref="char:EOLhyphen"/>ſie in the whole matter. While they were expecting an anſwer from the Commiſſioners of both Houſes,
+<pb n="7" facs="tcp:113635:4"/>they received Advertiſement, That Five thouſand Horſe and Dragoons were upon their march North<g ref="char:EOLhyphen"/>ward toward them, no Enemy being in thoſe parts, and that two Meſſengers ſent from us to them were intercepted and ſearched. Whereupon they judged it neceſſary, and did write to the Commiſſioners of Parliament to delay the intended meeting, till the ar<g ref="char:EOLhyphen"/>my ſhould come to a more convenient place, being unwilling that the Forces of the two Kingdoms ſhould ingage upon a miſtake; and ſo ſoon as they came to <hi>Borrowbrigs</hi> they renewed their deſires to the Commiſſioners of Parliament for a Conference about this buſineſſe, to which the Commiſſioners by reaſon of their other occaſions, did not agree.</p>
+               <p>
+                  <hi>In all which, the Committee of Eſtates conceive that they have uſed their beſt endeavours to give ſatisfaction to the deſire of the Honorable Houſe of Commons, eſpecially ſeeing upon the very firſt notice they had of Mr.</hi> Aſhburnham <hi>and Mr.</hi> Hudſon <hi>their endeavour to eſcape, they ſent forth on all hands Orders to apprehend them, and ſuch diligence was uſed, as Mr.</hi> Hudſon <hi>was apprehended, and is now in</hi> Newcaſtle <hi>in the Cuſtody of the Deputy Major: and as a worthy and Noble Lord, the Lord</hi> Balcarras <hi>lately come hither, hath by order of the Committee made known unto us, his Lordſhip and all the reſt of that Hono<g ref="char:EOLhyphen"/>rable Committee can declare upon their Honor, That directly nor indirectly they were no wayes acceſſory to Mr.</hi> Aſhburnhams <hi>eſcape, nor had any knowledge thereof, whatſoever may be ſug<g ref="char:EOLhyphen"/>geſted to the contrary. All which being conſidered, together with the Letters and Papers to be preſented this day to the Houſe from the Committee of both Kingdoms, We are confident that Honorable Houſe will reſt ſatisfied with their cariage in this particular, and with their other proceedings.</hi>
+               </p>
+            </div>
+            <div type="letter">
+               <head>
+                  <date>May 25. 1646.</date>
+               </head>
+               <pb n="8" facs="tcp:113635:5"/>
+               <opener>
+                  <salute>SIr,</salute>
+               </opener>
+               <p>If the ſending of Supplies to the Scotiſh Army, and the giving order for their Quarters were a matter of ſmall conſequence, or could without very great prejudice ſuffer a delay, we would be very loath ſo frequently to trouble the Honorable Houſes about that particular. But when we conſider the ex<g ref="char:EOLhyphen"/>ceeding great wants of that Army, and the inſup<g ref="char:EOLhyphen"/>portable burthen that lyes upon the Counties where they do now reſide, by reaſon no moneys are paid to the army, wherewith they may diſcharge their quar<g ref="char:EOLhyphen"/>ters, from whence many dangerous inconveniences and ſad evils muſt needs follow, as may appear by the Letters from the Committee at <hi>York,</hi> if not very ſpeedily prevented: We do finde a neceſſity laid upon us ſtill to importune the Honorable Houſes for ſend<g ref="char:EOLhyphen"/>ing a conſiderable Supply of mony to that Army, and in the mean time to give order for their Quarters, that all differences which may ariſe between them and the Country, or the Parliamenrs Forces, may be avoided, and all fair correſpondence may be mutually cheriſhed and entertained. Theſe things we have ear<g ref="char:EOLhyphen"/>neſtly preſſed at the Committee of both Kingdoms, And do now again renew to both Houſes for our further exoneration; wherein, as we have uſed our beſt endeavors to prevent the evils that are like to en<g ref="char:EOLhyphen"/>ſue, ſo we cannot but promiſe to our ſelves, That the Honorable Houſes will take the ſame into their wiſe conſideration, and ſpeedily return a ſatisfactory An<g ref="char:EOLhyphen"/>ſwer to</p>
+               <closer>
+                  <signed>Your affectionate Friends and Servants, <hi>Lauderdail, A. Johnſton, Charls Erskins, Hugh Kenedy, Robert Barcley.</hi>
+                  </signed>
+                  <dateline>
+                     <date>30 <hi>May.</hi> 16<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>6.</date>
+                  </dateline>
+               </closer>
+               <trailer>For the Honorable <hi>William Lenthal</hi> 
+                  <abbr>Eſq</abbr> Speaker of the Houſe of Commons.</trailer>
+            </div>
+            <div type="account">
+               <pb n="9" facs="tcp:113635:5"/>
+               <p>VVEE have very frequently repreſented to the honorable Houſes, the extreme neceſſities of the Scotiſh Army, and the dangerous effects which were like to follow, if ſome more effectual courſe be not taken for their neceſſary proviſions, whereby the Counties might be eaſed, and they not burthenſom to thoſe places where they did or do Quarter. We have alſo earneſtly deſired, That ſuch Complaints that were or ſhould for the future be ſent up hither concerning any Diſorders in that Army, or abuſes committed by any Perſon or Perſons therein, might be made known unto us, or to the Committee of Eſtates upon the place, promiſing, that upon inti<g ref="char:EOLhyphen"/>mation given, and proof made of the Offence, the Offenders ſhould be condignly and exemplarly pu<g ref="char:EOLhyphen"/>niſhed.</p>
+               <p>As by theſe and all other poſſible means and wayes we have diligently and faithfully endeavored to prevent miſ-underſtandings and differences be<g ref="char:EOLhyphen"/>tween the Kingdoms; ſo from the conſcience of the Solemn League and Covenant, and of the par<g ref="char:EOLhyphen"/>ticular truſt put upon us; from the ſenſe of the preſſing and ſtill unremedied ſufferings of our Ar<g ref="char:EOLhyphen"/>my, our ears being alſo filled with the noiſe of Complaints and Informations come againſt them, which ſome do not only eaſily believe, and readily entertain, but with much Art ſpread and aggravate: And finally, That we may for our own exoneration in point of duty, leave no mean uneſſayed which may heal the preſent, and prevent all future Jealou<g ref="char:EOLhyphen"/>ſies; We cannot chooſe at this ſeaſon, but expreſſe
+<pb n="10" facs="tcp:113635:6"/>that which lieth much upon our Spirits, and which being timely animadverted by the Wiſdom of both Houſes, may produce good effects to their and our comfort.</p>
+               <p>As we are conſcious to the ſincerity of our own Intentions and Endeavors to preſerve a firm Peace and Union between the Kingdoms, and to bring the War to a happy and ſpeedy concluſion; ſo upon our certain knowledge we can ſay, That the Parlia<g ref="char:EOLhyphen"/>ment of the Kingdom of <hi>Scotland,</hi> and in the inter<g ref="char:EOLhyphen"/>vals of Parliament the Committee of Eſtates at home and with the Army in this Kingdom, have proceeded and do proceed upon the ſame principles and toward the ſame ends, of which, ſo far as con<g ref="char:EOLhyphen"/>cerneth the Committee with the Army, the Com<g ref="char:EOLhyphen"/>miſſioners of both Houſes have often upon the place given ample teſtimony, which we doubt not they have done here alſo, as they freely declared they would do. Neither hath that Kingdom (to our beſt knowledge) failed in the performance of any Article of the Treaty with this Kingdom, which was to be performed on their part, although provocations have not been wanting, ſo that we are exceedingly amazed to hear ſuch noiſe of a breach expected between the Kingdoms, which if it ſhould fall forth (as the Lord forbid) we are confident it neither hath nor ſhall have any cauſe or riſe from our Nation. And we are no leſſe confident, That a curſe from Heaven ſhall be upon thoſe perſons, who for their own ends and intereſts, coloured with falſe though ſpecious pretences, are or ſhall be plotting and acting all that they can to hinder a Peace, and to
+<pb n="11" facs="tcp:113635:6"/>continue a War, and when through Gods good<g ref="char:EOLhyphen"/>neſſe the common Enemies of the Religion and juſt Liberties of both Kingdoms are in ſo great a mea<g ref="char:EOLhyphen"/>ſure broken, leaſt this ſhould make an end of the War, do, or ſhall apply themſelves to ſow diſcord amongſt Brethren, to make diviſive motions, and to create and encreaſe differences between the King<g ref="char:EOLhyphen"/>doms; and for that end, are extremely vigilant to catch, and actively to improve the ſmalleſt occaſi<g ref="char:EOLhyphen"/>ons taken ſometimes from groundleſſe and falſe Reports, ſometimes from the miſcarriages of ſome few private perſons pinched with want and pro<g ref="char:EOLhyphen"/>voked with reproaches.</p>
+               <p>We ſhall heartily wiſh, That he in whoſe ſight all things are naked and manifeſt, may diſcover and re<g ref="char:EOLhyphen"/>ſiſt all ſecret Enemies of Truth and Peace, whoever they be; and we truſt that God will ſo direct the Honorable Houſes of Parliament, that they will never comply with, nor connive at the Counſels and wayes of any party, which for their own advanta<g ref="char:EOLhyphen"/>ges would not ſpare to let in that flood of miſeries upon this Iſland, which cannot but follow upon the engagement of the Kingdoms in a War.</p>
+               <p>We do alſo expect from the Juſtice and Wiſdom of the Parliament, That the Brotherly way for<g ref="char:EOLhyphen"/>merly uſed for a good correſpondence between the Kingdoms, may be remembred and reſumed, and particularly that according to the Vote of both Houſes the 17. <hi>October,</hi> 1644. in reference to our Paper of the 14. <hi>Septem.</hi> 1644. What doubts or objections ſhall ariſe in either Houſe, upon conſide<g ref="char:EOLhyphen"/>ration of any thing propounded concerning the
+<pb n="12" facs="tcp:113635:7"/>Scotiſh Armies in <hi>England</hi> or <hi>Ireland,</hi> the ſame be recommitted to a Committee of both Houſes, that after Debate with us, and full underſtanding of our meaning, the reſults thereof may be reported.</p>
+               <p>If now the Honorable Houſes are or ſhall be un<g ref="char:EOLhyphen"/>ſatisfied concerning any in the Scotiſh Army, we do faithfully promiſe and engage our ſelves in the Name of that Army, that real and ſpeedy ſatisfacti<g ref="char:EOLhyphen"/>on ſhall be given when it ſhall be deſired, and the Delinquents (when they ſhal be made known) ſevere<g ref="char:EOLhyphen"/>ly puniſhed; and if they be ſuch as have ſerved in Arms againſt the Parliament, ſhall be removed out of the Army: In which particular the Committee with the Army did lately give an evidence of their willingneſſe upon occaſion of a motion offered from ſome of themſelves, to ſome of the Commiſſioners of the Parliament, that a Paper might be delivered to the Committee of Eſtates from the ſaid Commiſ<g ref="char:EOLhyphen"/>ſioners of Parliament, deſiring ſuch as had been in Arms againſt the Parliament, to be removed out of that Army. After which a Paper was delivered from the Commiſſioners of Parliament, propoſing, that ſuch Subjects of the Crown of <hi>England</hi> as have ſer<g ref="char:EOLhyphen"/>ved the Enemy, and have not conformed to the Or<g ref="char:EOLhyphen"/>dinance of Parliament, might be removed out of that Army. The Committee of Eſtates did return a moſt ſatisfactory anſwer, condeſcending heartily to the Propoſition, and deſiring from the ſaid Com<g ref="char:EOLhyphen"/>miſſioners a liſt of the Names of ſuch perſons, that they might inſtantly be diſcharged, Promiſing alſo that they themſelves ſhould diligently enquire after them, and make it appear how cordially they love
+<pb n="13" facs="tcp:113635:7"/>and honor the Parliament of this Kingdom (all which is more fully expreſſed in the Papers them<g ref="char:EOLhyphen"/>ſelves). Thereafter about the time of the removal of our Army from <hi>Newark,</hi> the Commiſſioners of Par<g ref="char:EOLhyphen"/>liament, according to ſuch Informations as they had, delivered in a Liſt of the perſons, wherein there were named divers of our Army upon a miſtake, they be<g ref="char:EOLhyphen"/>ing of the ſame name with ſome that had ſerved a<g ref="char:EOLhyphen"/>gainſt the Parliament, but themſelves (to the perfect knowledge of the Committee) having never ſerved againſt the Parliament, yea having come in with that Army at their entry into this Kingdom. And as to any others in that Liſt, the Committee returned this anſwer, That according to the former ingagement in their anſwer of the 17. of <hi>April,</hi> ſuch perſons ſhould be removed out of the Army.</p>
+               <p>Their willingneſſe to execute Juſtice hath been manifeſted in the caſe of other offenders, as well as thoſe who have been in Arms againſt the Parliament. Upon ſome Complaints againſt the Reformadoes that were in that Army, by Order of the Commit<g ref="char:EOLhyphen"/>tee of Eſtates they were forthwith diſcharged and removed out of the Army. And upon ſome diſor<g ref="char:EOLhyphen"/>ders committed by others, a Councel of War was called, and the perſons guilty Condemned and Ex<g ref="char:EOLhyphen"/>ecuted. It is true, the Commiſſioners of the two Houſes delivered a Proteſtation againſt that way of proceeding by a Councel of War of the Officers of the ſame Regiment to whom the Delinquents did belong, but it was after the Councel of War had met, and the perſons were ſentenced. And concern<g ref="char:EOLhyphen"/>ing that way of procedure, we deſire it may be con<g ref="char:EOLhyphen"/>ſidered,
+<pb n="14" facs="tcp:113635:8"/>That it is the conſtant way of the Military Diſcipline of <hi>Scotland,</hi> as it is in <hi>Germany</hi> and many other places of the World, and which every Regi<g ref="char:EOLhyphen"/>ment claimeth as their proper priviledge. Some others have been lately put to death, and what more can be required at their hands.</p>
+               <p>As to the Complaints of the Countrey of their great burthens; It is no wonder, ſeeing one corner thereof ſuſtaineth the burthen of the maintenance of that Army, when it ſhould be equally laid upon the whole Kingdom: For remedy whereof, the Army and we in their Name, have with much importunity deſired from the Parliament means to relieve them, as to ſupply themſelves, and they are moſt willing to allow in their accompts, what they receive in their Quarters; and have often deſired Commiſſioners to be ſent down to concur with them to adjuſt the particulars: And if they knew of any other way to keep themſelves from disbanding or ſtarving, but by taking of Quarters in the Countrey when no Mo<g ref="char:EOLhyphen"/>is provided for them, they would moſt heartily em<g ref="char:EOLhyphen"/>brace it.</p>
+               <p>When we ſhall know any other particular Com<g ref="char:EOLhyphen"/>plaints concerning diſorders in that Army, we ſhall be ready to give ſpeedy, juſt, and ſatisfactory an<g ref="char:EOLhyphen"/>ſwers: This we can ſay for the preſent, That al<g ref="char:EOLhyphen"/>though Warrants have been iſſued out to invite the Countrey to preſent their Complaints concerning diſorders committed in our Army (the like not be<g ref="char:EOLhyphen"/>ing-done concerning diſorders amongſt the Engliſh Forces) yet upon the knowledge and proof of any offence ſo complained of, Juſtice was done, which
+<pb n="15" facs="tcp:113635:8"/>is the moſt that can be required; although likewiſe all the time our Amy was before <hi>Newark,</hi> our foot Sol<g ref="char:EOLhyphen"/>diers had only peny half peny <hi>per diem</hi> in money and proviſions, whereas the Engliſh Souldiers imployed in the ſame Service with them, had Eight pence <hi>per diem,</hi> and Twelve pence every third day when they did work. And although ſtrict Diſdipline and Ju<g ref="char:EOLhyphen"/>ſtice againſt all abuſes uſeth not to be expected from an Army which receiveth ſo little of their Pay, yet there hath been more ſtrictneſſe in puniſhing offen<g ref="char:EOLhyphen"/>ders in that Army, then amongſt thoſe who were much better paid. We deſire not to aſperſe any, but only to vindicate the Reputation of our own Army, and to move the Honorable Houſes to take ſome more real and effectual courſe for Supplying their wants, And that they may be pleaſed for prevent<g ref="char:EOLhyphen"/>ing of further differences, and for the greater eaſe of the Countrey, to give Order to the Committee at <hi>York,</hi> for the Quartering of the Engliſh Forces and ours in the moſt convenient places, As likewiſe for ſending to ours a conſiderable proportion of Money to diſcharge their Quarters and relieve their extreme neceſſities. It is not light but grievous to us to hear of any diſorders at all committed by any perſon in that Army (how great ſoever the neceſſities be unto which they are redacted) or that our Army ſhould be any longer burthenſom to this Kingdom. And we do in the Name of that Kingdom and Army declare and aſſure, That as they came into this Kingdom upon an earneſt invitation from both Houſes of Par<g ref="char:EOLhyphen"/>liament, and for the ends expreſſed in the Covenant and Treaty, and Declaration of both Kingdoms
+<pb n="16" facs="tcp:113635:9"/>(the cloſe whereof doth expreſſe the reſolution of both to have Truth and Peace ſetled upon a firm Foundation before their laying down of Arms) ſo their continuance neither is nor ſhall be made uſe of to the leaſt encroachment upon the Government of this Kingdom, Nor to any other ends beſides thoſe expreſſed in the Covenant and Treaty: And how ſoon ſoever Religion and Peace ſhall be ſetled ac<g ref="char:EOLhyphen"/>cordingly, our Army and Garriſons ſhall forthwith remove out of this Kingdom. And theſe things we ſhall wiſh may be ſpeedily done, and that the Pro<g ref="char:EOLhyphen"/>poſitions for a ſafe and well-grounded Peace (which did for a very ſhort time remain in our hands) may now after ſo long expectation, be ſent to the King, that upon his Royal conſent to the deſires of His People for ſetling and ſecuring of Religion and Peace, His Majeſty may return to His Parliament here, all Armies may be disbanded, the heavy preſſures of the Subjects ended, and the Kingdoms may remain in a firm Peace and Union to all Poſterity, according to the Solemn League and Covenant.</p>
+               <closer>
+                  <date>3. <hi>June,</hi> 1646.</date>
+               </closer>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
